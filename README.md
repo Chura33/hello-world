@@ -13,4 +13,4 @@ Some of the technologies that I would learn are as follows
 I believe that by starting with simple code like:
 `console.log('Hello World')`
 I can become a good backend developer because ALX starts from the basics and make us learn at our pace.
-ALX makes us > DO HARD THINGS >
+ALX makes us  > blockquote > DO HARD THINGS >
